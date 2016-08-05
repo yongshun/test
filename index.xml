@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xys test </title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <language>en-us</language>
+    <author>xys</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-08-05 14:26:35 &#43;0800 CST</updated>
+
+    
+      
+        <item>
+          <title>good to great</title>
+          <link>http://replace-this-with-your-hugo-site.com/post/good-to-great/</link>
+          <pubDate>Fri, 05 Aug 2016 14:26:35 CST</pubDate>
+          <author>xys</author>
+          <guid>http://replace-this-with-your-hugo-site.com/post/good-to-great/</guid>
+          <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
